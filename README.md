@@ -1,5 +1,5 @@
 # auto-driving_based_on_RL
-My undergraduate thesis. Implemented auto-driving in DonkeyCar simulator using reinforcement learning algorithms(DDPG, SAC, A3C).
+My undergraduate thesis(2020). Implemented auto-driving in DonkeyCar simulator using reinforcement learning algorithms(DDPG, SAC, A3C).
 
 ### Introduction ###
 In this work, I implemented some RL algorithms on DonkeyCar Simulator, finally I made the car drive in the track successful.
