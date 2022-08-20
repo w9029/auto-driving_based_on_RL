@@ -9,14 +9,14 @@ And did some try on CARLA simulator.
 After testing, the best performance in this scenario is the SAC algorithm.
 CTE=1，alpha=0.1
 
-![](./Assets/gifs/CTE=1.gif)
+![](./Assets/gifs/S_CTE=1.gif)
 
 The car drives smoothly, but cannot stay in the center of the track.
 
 
 CTE=5, alpha=0.1
 
-![](./Assets/gifs/CTE=5.gif)
+![](./Assets/gifs/S_CTE=5.gif)
 
 The car drives in the center of the track, but not very smooth.
 
