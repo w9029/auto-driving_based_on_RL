@@ -7,6 +7,7 @@ And did some try on CARLA simulator.
 
 ### Achievement ###
 After testing, the best performance in this scenario is the SAC algorithm.
+
 CTE=1，alpha=0.1
 
 ![](./Assets/gifs/S_CTE=1.gif)
